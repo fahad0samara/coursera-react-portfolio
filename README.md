@@ -4,6 +4,10 @@
 
 This is a portfolio project completed as part of a course on [Coursera](https://www.coursera.org). The project focuses on creating a single-page portfolio website to showcase my work as a frontend developer. It incorporates various technologies and libraries including React, Chakra UI, Formik, and Yup.
 
+
+![screencapture-localhost-3000-2024-04-14-04_15_58](https://github.com/fahad0samara/coursera-react-portfolio/assets/90055525/7103a068-ef98-443a-a9bb-0b506ae2134f)
+
+
 ## Features
 
 - **Header:** A header component with external links to social media accounts and internal links to other sections of the page. The header also includes a show/hide animation based on scroll direction.
